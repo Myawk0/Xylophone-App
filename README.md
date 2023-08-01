@@ -1,4 +1,4 @@
-# Xylophone-App
+# Xylophone
 a simple app which allows you to enjoy melodies, play music and unleash your creativity
 
 1. A project for Module 7 [iOS & Swift - The Complete iOS App Development Bootcamp]
